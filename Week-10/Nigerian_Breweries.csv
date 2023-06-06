@@ -1,2 +1,2 @@
 ,Lager,Stout,Non-Alcoholic
-0,<bound method Beer.lager of <__main__.Beer object at 0x000001E81C2EAEF0>>,<bound method Beer.Stout of <__main__.Beer object at 0x000001E81C2EAEF0>>,<bound method Beer.Non_alcoholic of <__main__.Beer object at 0x000001E81C2EAEF0>>
+0,"{'33 Export', 'Star', 'Desperados', 'Heineken', 'Gulder', 'Goldberg'}","{'Legend', 'Williams', '  ', 'Turbo King'}",<bound method Beer.Non_alcoholic of <__main__.Beer object at 0x000001FD0F2DEF80>>
